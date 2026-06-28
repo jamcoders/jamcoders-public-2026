@@ -7,4 +7,4 @@ To use in `google.colab`, run these commands
 from jamcoders.base_utils import *
 ```
 
-Find more detailed instructions for how to connect to the lab files [here](https://github.com/jamcoders/labs-2026).
+Find more detailed instructions for how to connect to the lab files [here](https://github.com/jamcoders/labs-2025).
