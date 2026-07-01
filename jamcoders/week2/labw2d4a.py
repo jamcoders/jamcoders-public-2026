@@ -7,7 +7,7 @@ def check_answers(answer, correct, num):
 def warmup_check1(answer, adrianna_counter):
     check_answers(answer, 14, "WWPD #1")
     if adrianna_counter == 0 and answer == 14:
-        print("Congrats! You got it on your first try. Call Adriana over to congratulate you :)")
+        print("Congrats! You got it on your first try. Call Adrianna over to congratulate you :)")
 
 def warmup_check2(answer):
     check_answers(answer, 0, "WWPD #2")
